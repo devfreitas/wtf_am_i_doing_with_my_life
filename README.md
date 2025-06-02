@@ -1,5 +1,7 @@
 # Somando números
-Pois bem, não sei o que deu em mim, mas eu fiz uma soma de dois númerosem Assembly!
+Pois bem, não sei o que deu em mim, mas eu fiz uma soma de dois números em Assembly!
+É literalmente a leitura de 2 números de 0 - 9, e a soma deles
+
 - Como você fez ?
   
 **Não me lembro**
